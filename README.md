@@ -4,7 +4,7 @@ _demo of shooting-range-advance scene running in preview._
 ![demo](https://github.com/decentraland-scenes/shooting-range-advance/blob/master/screenshots/shooting-range-advance.gif)
 
 ## Description
-Gun game mechanic along with bullet marks appearing wherever the bullet strikes the target. To view the scene, please visit [here](https://shooting-range-advance.vercel.app/).
+Gun game mechanic along with bullet marks that appear wherever the bullet strikes the target. To view the scene, please visit [here](https://shooting-range-advance.vercel.app/).
 
 ## Instructions
 Make sure you stand inside the shooting area marked in red before firing at the targets. Use your mouse to look around and <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> keys on your keyboard to move forward, left, backward and right respectively. Press the <kbd>Space</kbd> key to jump and the <kbd>Left Mouse Button</kbd> to shoot.
