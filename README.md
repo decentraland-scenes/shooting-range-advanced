@@ -13,16 +13,21 @@ Make sure you stand inside the shooting area marked in red before firing at the 
 If the targets is set to spin too quickly then the bullet marks might appear hidden beneath the target's geometry as the bullet mark isn't generated fast enough.
 
 ## Try it out
-After you clone the project, run the following:
+
+**Install the CLI**
+
+Download and install the Decentraland CLI by running the following command:
 
 ```
 $ npm i -g decentraland
 ```
 
-Followed by:
+**Previewing the scene**
+
+Download this example and navigate to its directory, then run:
 
 ```
-$ dcl start
+$  dcl start
 ```
 ## Acknowledgements
 The following files were taken from https://freesound.org/:
