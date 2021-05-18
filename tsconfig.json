@@ -4,10 +4,12 @@
     "allowJs": true,
     "paths": {
       "@dcl/ecs-scene-utils": [
-        "node_modules/@dcl/ecs-scene-utils/dist/index.d.ts"
+        "node_modules/@dcl/ecs-scene-utils/dist/index.d.ts",
+        "node_modules\\@dcl\\ecs-scene-utils\\dist\\index.d.ts"
       ]
     },
-    "baseUrl": "."
+    "baseUrl": ".",
+    "strict": true
   },
   "include": [
     "src/**/*.ts"
