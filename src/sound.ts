@@ -3,7 +3,7 @@ export class Sound extends Entity {
     super()
     engine.addEntity(this)
     this.addComponent(new Transform())
-    this.getComponent(Transform).position = Camera.instance.position // Sets the audio to be wherever the player is standing
+    this.setParent(Attachable.AVATAR)
     this.addComponent(new AudioSource(clip))
   }
 }
